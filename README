@@ -1,0 +1,8 @@
+To run this file, download glut and alut in your linux machine.
+And run the following command:-
+
+g++ track01.cpp -lglut -lGLU -lGL -o game
+
+and then start game by executing "game"
+run by "./game" on terminal 
+or double-click on the executable hence created from the file browser
